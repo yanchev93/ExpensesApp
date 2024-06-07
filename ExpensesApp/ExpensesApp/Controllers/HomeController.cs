@@ -1,6 +1,7 @@
 using ExpensesApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using ExpensesApp.Models;
 
 namespace ExpensesApp.Controllers
 {
@@ -16,6 +17,20 @@ namespace ExpensesApp.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+        public IActionResult Expenses()
+        {
+            return View();
+        }
+        public IActionResult CreateEditExpense()
+        {
+            return View();
+        }
+
+        public IActionResult CreateEditExpenseForm(Expense model)
+        {
+            return RedirectToAction("Index");
         }
 
         public IActionResult Privacy()

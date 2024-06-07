@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Programing/C\#/ExpensesApp/ExpensesApp/ExpensesApp/Views/Home/CreateEditExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFZGl0RXhwZW5zZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programing/C\#/ExpensesApp/ExpensesApp/ExpensesApp/Views/Home/Expenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeHBlbnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Programing/C\#/ExpensesApp/ExpensesApp/ExpensesApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
