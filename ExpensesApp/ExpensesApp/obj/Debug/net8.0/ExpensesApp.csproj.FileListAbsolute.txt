@@ -29,3 +29,8 @@ D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\refint\Exp
 D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\ExpensesApp.pdb
 D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\ExpensesApp.genruntimeconfig.cache
 D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\ref\ExpensesApp.dll
+D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\ExpensesApp.csproj.AssemblyReference.cache
+D:\Programing\C#\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\net8.0\Expenses.75EDC2D4.Up2Date

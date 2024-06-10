@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|solutionrelative:expensesapp\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E91F25E6-7128-41AD-8117-97218097E8A9}|ExpensesApp\\ExpensesApp.csproj|d:\\programing\\c#\\expensesapp\\expensesapp\\expensesapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ExpensesApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ExpensesApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-07T16:53:12.822Z",
               "IsPinned": true,
@@ -60,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "ExpensesApp\\Views\\Home\\Expenses.cshtml",
               "ToolTip": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "ExpensesApp\\Views\\Home\\Expenses.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-07T16:57:42.038Z",
               "IsPinned": true,
@@ -74,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CreateEditExpense.cshtml",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "ExpensesApp\\Views\\Home\\CreateEditExpense.cshtml",
               "ToolTip": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeToolTip": "ExpensesApp\\Views\\Home\\CreateEditExpense.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-07T18:15:03.98Z",
               "IsPinned": true,
@@ -88,20 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Program.cs",
-              "RelativeDocumentMoniker": "ExpensesApp\\Program.cs",
-              "ToolTip": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Program.cs",
-              "RelativeToolTip": "ExpensesApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T15:35:10.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExpensesDbContext.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Models\\ExpensesDbContext.cs",
               "RelativeDocumentMoniker": "ExpensesApp\\Models\\ExpensesDbContext.cs",
@@ -114,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ExpensesApp\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ExpensesApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAA0wEoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T16:19:59.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Expense.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Models\\Expense.cs",
               "RelativeDocumentMoniker": "ExpensesApp\\Models\\Expense.cs",
@@ -135,12 +118,11 @@
               "RelativeToolTip": "ExpensesApp\\Models\\Expense.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:51:17.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:51:17.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Programing\\C#\\ExpensesApp\\ExpensesApp\\ExpensesApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExpensesApp\\Views\\Shared\\_Layout.cshtml",
@@ -148,8 +130,7 @@
               "RelativeToolTip": "ExpensesApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T16:45:19.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:45:19.201Z"
             }
           ]
         }

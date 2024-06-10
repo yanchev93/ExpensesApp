@@ -27,27 +27,52 @@ namespace ExpensesApp.Controllers
         // View all expenses
         public IActionResult Expenses()
         {
-            return View();
+            var allExpenses = _dbContext.Expenses.ToList();
+
+            return View(allExpenses);
         }
 
-        // In this method we are creating or editing an expense
-        public IActionResult CreateEditExpense()
+        // In this method we are creating or editing an expense (nullable id if we are creating something)
+        public IActionResult CreateEditExpense(int? id)
         {
             // Check if we are creating a new expense or editing an existing one
+            if (id != null)
+            {
+                // Edit an expense -> load an expense by Id
+                var expenseInDb = _dbContext.Expenses.SingleOrDefault(expense => expense.Id == id);
+                return View(expenseInDb);
+            }
 
             return View();
         }
 
-        public IActionResult DeleteExpense()
+        public IActionResult DeleteExpense(int id)
         {
-            // Check the expense
+            // Delete expense and redirect them to all expenses after deleting and saving the changes
+            // SingleOrDefault will throw an error if there is more than 1 of the exact ids (EFC-SQL secure we don't have repeatable ids)
+            var expenseToDelete = _dbContext.Expenses.SingleOrDefault(expense => expense.Id == id);
+            _dbContext.Expenses.Remove(expenseToDelete);
+            _dbContext.SaveChanges();
 
             return RedirectToAction("Expenses");
         }
 
         public IActionResult CreateEditExpenseForm(Expense model)
         {
-            return RedirectToAction("Index");
+            if (model.Id == 0)
+            {
+                // Creating expense
+                _dbContext.Add(model);
+            }
+            else
+            {
+                // Editing(updating) an existing expense
+                _dbContext.Update(model);
+            }
+
+            _dbContext.SaveChanges();
+
+            return RedirectToAction("Expenses");
         }
 
         public IActionResult Privacy()
